@@ -1,6 +1,6 @@
 # Meet Belinda Biwott
 
-Hey there! I'm Belinda, a unique individual navigating through  the vast world of GitHub with a blend of coding creativity and a thirst for collaboration.
+Hey there! I'm Belinda, a curious individual navigating through  the vast world of Tech with a blend of coding creativity and a thirst for collaboration.
 
 ## Quick Facts About Me
 
